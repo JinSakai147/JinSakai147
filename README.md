@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hey, I'm Santonu
 
-<!--
-**JinSakai147/JinSakai147** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🤖 Building AI-powered projects & turning random ideas into working systems.
 
-Here are some ideas to get you started:
+🎓 CSE (Data Science) Student  
+💻 C/C++ • Python • JavaScript • TypeScript • AI/ML  
+🎮 Gamer • ⚽ Football enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚧 Currently Building
+
+### 🔐 VERIFAI
+
+AI-assisted identity & document verification system.
+
+🪪 Document Verification  
+👁️ Face Matching  
+🔍 OCR & Tampering Detection  
+🤖 AI-assisted Verification
+
+---
+
+## 🚀 Featured Projects
+
+🔐 **VERIFAI** — AI-powered identity & document verification
+
+📄 **RESUMA** — AI-powered resume analysis
+
+---
+
+## 🧠 Currently Learning
+
+`C++` → `DSA` → `Machine Learning` → `Advanced AI`
+
+---
+
+## ⚡ Tech
+
+`C` `C++` `Python` `JavaScript` `TypeScript`  
+`React` `AI/ML` `Git` `GitHub`
+
+---
+
+### 💭
+
+**Build it. Break it. Understand it. Build it better.**
